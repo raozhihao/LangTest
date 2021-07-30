@@ -34,6 +34,7 @@ namespace MahLang
             if (!useZhCN)
                 cultureStr = "en-US";
 
+            this.useZhCN = !this.useZhCN;
             this.langTxt.Text = cultureStr;
             Application.Current.Dispatcher.Thread.CurrentUICulture = new CultureInfo(cultureStr);
         }
