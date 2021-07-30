@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahLang", "..\..\..\..\..\Code\Self\DemoSolution\MahLang\MahLang.csproj", "{E084AB65-3AAA-4478-96E0-3295B91CD980}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MahLang", "MahLang\MahLang.csproj", "{E084AB65-3AAA-4478-96E0-3295B91CD980}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
